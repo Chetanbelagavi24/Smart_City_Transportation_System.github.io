@@ -1,6 +1,6 @@
 ## Portfolio
 
-### Hello, I'm [Chetan Belagavi] 👋
+### Hello, I'm Chetan Belagavi 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
@@ -21,17 +21,17 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 
 <dl>
 <dt>Course Name</dt>
-<dd>Algorithmic Problem Solving</dd>
+<dd>Design and Analysis of Algorithms</dd>
 <dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dd>24ECAP202</dd>
 <dt>Name</dt>
-<dd>Your Name</dd>
+<dd>Chetan Belagavi</dd>
 <dt>SRN</dt>
-<dd>Your SRN</dd>
+<dd>02FE22BCI013</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>Dr. Priyanka Gavade</dd>
 <dt>University</dt>
-<dd>Your University Name</dd>
+<dd>KLE TECHNOLOGICAL UNIVERSITY</dd>
 <dt>Portfolio Topic/Domain</dt>
 <dd>Google</dd>
 </dl>
